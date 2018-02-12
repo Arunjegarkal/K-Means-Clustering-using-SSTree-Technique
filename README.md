@@ -1,4 +1,4 @@
-# K-Means-Clustering-using-SSTree-Technique
+# K-Means Clustering using SSTree Technique
 
     Implementations Detail:
 
